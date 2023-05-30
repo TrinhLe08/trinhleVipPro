@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/trinhleVipPro/static/css/main.c4d284f8.css",
+    "main.css": "/trinhleVipPro/static/css/main.ca7ee71c.css",
     "main.js": "/trinhleVipPro/static/js/main.68c41d3c.js",
     "static/js/787.ec704a7a.chunk.js": "/trinhleVipPro/static/js/787.ec704a7a.chunk.js",
     "static/media/bg.jpg": "/trinhleVipPro/static/media/bg.ede48411a72bb1575afe.jpg",
     "static/media/logo.svg": "/trinhleVipPro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/trinhleVipPro/index.html",
-    "main.c4d284f8.css.map": "/trinhleVipPro/static/css/main.c4d284f8.css.map",
+    "main.ca7ee71c.css.map": "/trinhleVipPro/static/css/main.ca7ee71c.css.map",
     "main.68c41d3c.js.map": "/trinhleVipPro/static/js/main.68c41d3c.js.map",
     "787.ec704a7a.chunk.js.map": "/trinhleVipPro/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4d284f8.css",
+    "static/css/main.ca7ee71c.css",
     "static/js/main.68c41d3c.js"
   ]
 }
