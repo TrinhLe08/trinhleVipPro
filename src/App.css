@@ -520,8 +520,11 @@ body {
   margin-left: 20px;
 }
 @media only screen and (max-width: 820px) {
+  html {
+    width: 100%;
+  }
   body {
-    width: 375px;
+    width: 100%;
     background-size: 100% 1000px;
     overflow: hidden;
     text-align: center;
@@ -531,10 +534,15 @@ body {
     width: 1000px;
   }
   .App {
-    width: 110%;
+    width: 100%;
   }
   .App .Header {
     width: 400px;
+  }
+  .App .Main .Dot {
+    position: absolute;
+    left: 95%;
+    bottom: 60%;
   }
   .App .img,
   .App .ImgNotMain {
@@ -544,7 +552,7 @@ body {
     width: 150px;
   }
   .App .SupperVipPro {
-    margin-left: 50px;
+    margin-left: 10px;
     width: 300px;
     font-size: 12px;
     text-align: center;

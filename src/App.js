@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from './logo.svg'
+import './App.css'
 import { useEffect, useRef, useState, createContext } from 'react'
 import Header from './Componenst/Header'
 import Vip from './Componenst/Vip'
